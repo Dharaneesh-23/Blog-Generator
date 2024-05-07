@@ -7,26 +7,23 @@ prompts. The app allows users to specify a topic, desired word count, and the ta
 
   1. Clone the repository to your local machine:
      
-    ```bash
-      git clone https://github.com/your-username/llm-blog-generation-app.git
-      cd llm-blog-generation-app
+    git clone https://github.com/your-username/llm-blog-generation-app.git
+    cd llm-blog-generation-app
       
   2. Install the required dependencies:
 
-    ```bash
-      pip install -r requirements.txt
+    pip install -r requirements.txt
 
   3. Run the Streamlit app:
 
-    ```bash
-      streamlit run app.py
+    streamlit run app.py
 
   4. Access the app in your web browser by following the link provided in the terminal.
 
 ## Features
-  - # Prompt-Based Generation: Users can input a topic, desired word count, and select the target audience for the blog.
-  - # Customizable: The app allows users to tailor the generated content based on specific job profiles or audience types.
-  - # LLaMA 2 7B Model: Utilizes the LLaMA 2 7B model for natural language generation, capable of producing coherent and contextually relevant text.
+  - Prompt-Based Generation: Users can input a topic, desired word count, and select the target audience for the blog.
+  - Customizable: The app allows users to tailor the generated content based on specific job profiles or audience types.
+  - LLaMA 2 7B Model: Utilizes the LLaMA 2 7B model for natural language generation, capable of producing coherent and contextually relevant text.
 
 ## File Structure
   - app.py: Main Python script containing the Streamlit application code.
