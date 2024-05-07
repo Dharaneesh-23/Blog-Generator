@@ -36,4 +36,4 @@ prompts. The app allows users to specify a topic, desired word count, and the ta
   - LLaMA 2 7B Model: Large language model for natural language generation.
   - langchain: Python package for handling language generation tasks.
 
-## [localhost:8501](https://github.com/Dharaneesh-23/Blog-Generator/blob/025c45d4d3348f473879c2e98e488b09d83e2b1d/Screenshot%202024-05-07%20103525.png)
+## [localhost:8501](Screenshot 2024-05-07 103525.png)
