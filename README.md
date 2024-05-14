@@ -7,8 +7,8 @@ prompts. The app allows users to specify a topic, desired word count, and the ta
 
   1. Clone the repository to your local machine:
      
-    git clone https://github.com/your-username/llm-blog-generation-app.git
-    cd llm-blog-generation-app
+    git clone https://github.com/Dharaneesh-23/Blog-Generator.git
+    cd Blog-Generator
       
   2. Install the required dependencies:
 
